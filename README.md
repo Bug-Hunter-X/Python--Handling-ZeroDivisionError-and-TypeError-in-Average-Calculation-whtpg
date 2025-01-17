@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: handling ZeroDivisionError and TypeError. The function calculate_average can fail if the input list is empty or contains non-numeric values. The bug.py file contains the erroneous code, while bugSolution.py provides the improved solution.
